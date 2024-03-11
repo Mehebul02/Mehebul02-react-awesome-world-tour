@@ -1,0 +1,11 @@
+.countries-container{
+    border: 2px solid purple;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 15px;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
